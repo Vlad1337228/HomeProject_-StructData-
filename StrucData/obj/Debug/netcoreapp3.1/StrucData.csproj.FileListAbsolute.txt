@@ -1,0 +1,14 @@
+D:\Myself Works\VS\StrucData\StrucData\bin\Debug\netcoreapp3.1\StrucData.exe
+D:\Myself Works\VS\StrucData\StrucData\bin\Debug\netcoreapp3.1\StrucData.deps.json
+D:\Myself Works\VS\StrucData\StrucData\bin\Debug\netcoreapp3.1\StrucData.runtimeconfig.json
+D:\Myself Works\VS\StrucData\StrucData\bin\Debug\netcoreapp3.1\StrucData.runtimeconfig.dev.json
+D:\Myself Works\VS\StrucData\StrucData\bin\Debug\netcoreapp3.1\StrucData.dll
+D:\Myself Works\VS\StrucData\StrucData\bin\Debug\netcoreapp3.1\StrucData.pdb
+D:\Myself Works\VS\StrucData\StrucData\obj\Debug\netcoreapp3.1\StrucData.csproj.AssemblyReference.cache
+D:\Myself Works\VS\StrucData\StrucData\obj\Debug\netcoreapp3.1\StrucData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Myself Works\VS\StrucData\StrucData\obj\Debug\netcoreapp3.1\StrucData.AssemblyInfoInputs.cache
+D:\Myself Works\VS\StrucData\StrucData\obj\Debug\netcoreapp3.1\StrucData.AssemblyInfo.cs
+D:\Myself Works\VS\StrucData\StrucData\obj\Debug\netcoreapp3.1\StrucData.csproj.CoreCompileInputs.cache
+D:\Myself Works\VS\StrucData\StrucData\obj\Debug\netcoreapp3.1\StrucData.dll
+D:\Myself Works\VS\StrucData\StrucData\obj\Debug\netcoreapp3.1\StrucData.pdb
+D:\Myself Works\VS\StrucData\StrucData\obj\Debug\netcoreapp3.1\StrucData.genruntimeconfig.cache
